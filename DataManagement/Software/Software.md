@@ -43,7 +43,7 @@ Tethered photography for specimen/object image capture has many benefits, such a
 | [EoS Utility](https://www.canon.co.uk/support/consumer_products/software/eos-utility.html?os=windows%2010%20(64-bit)&language=) (Canon Only) | free | X |  | X | |
 | [Helicon Remote](https://www.heliconsoft.com/heliconsoft-products/helicon-remote/) | paid | X | | X | |
 | [LUMIX Tether](https://av.jpn.support.panasonic.com/support/global/cs/soft/download/d_lumixtether.html) (Panasonic only) | free | X | | X | |
-| [Capture One](https://www.captureone.com/en) | paid | X | | X | X |
+| [Capture One](https://www.captureone.com/en) | paid | X | X | X | X |
 | LeafCapture\* (Leaf only) | free | X | | X | X |
 | [digiCamControl](http://digicamcontrol.com/) | free | X | X | X | |
 | [Breeze Multi-Camera Array](https://www.breezesys.com/solutions/breeze-multi-camera-event/) (DSLR Remote Pro Multi-Camera) | paid |  | X | X | |
